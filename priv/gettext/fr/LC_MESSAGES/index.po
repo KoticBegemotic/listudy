@@ -14,47 +14,47 @@ msgstr ""
 #, elixir-format
 #: lib/listudy_web/templates/page/index.html.eex:46
 msgid "All blog posts"
-msgstr ""
+msgstr "Tous les posts du blog"
 
 #, elixir-format
 #: lib/listudy_web/templates/page/index.html.eex:31
 msgid "Become unbeatable in endgames."
-msgstr ""
+msgstr "Devenez imbattable dans les finales"
 
 #, elixir-format
 #: lib/listudy_web/templates/page/index.html.eex:4
 msgid "Better train openings, endgames and tactics with the help of systematic repetition."
-msgstr ""
+msgstr "Optimisez vos entraînements aux ouvertures, finales et tactiques à l’aide de la répétition systématique."
 
 #, elixir-format
 #: lib/listudy_web/templates/page/index.html.eex:53
 msgid "Blind Tactics"
-msgstr ""
+msgstr "Tactiques à l'aveugle"
 
 #, elixir-format
 #: lib/listudy_web/templates/page/index.html.eex:24
 msgid "Books"
-msgstr ""
+msgstr "Livres"
 
 #, elixir-format
 #: lib/listudy_web/templates/page/index.html.eex:60
 msgid "Contribute"
-msgstr ""
+msgstr "Contribuez"
 
 #, elixir-format
 #: lib/listudy_web/templates/page/index.html.eex:91
 msgid "Daily Puzzle"
-msgstr ""
+msgstr "Puzzle du jour"
 
 #, elixir-format
 #: lib/listudy_web/templates/page/index.html.eex:26
 msgid "Discover the greatest books with the help of Grandmaster recommendations."
-msgstr ""
+msgstr "Découvrez les meilleurs livres grâce aux recommandations de grands maîtres."
 
 #, elixir-format
 #: lib/listudy_web/templates/page/index.html.eex:73
 msgid "Distribute copies of your modified versions"
-msgstr ""
+msgstr "Distribuez les copies de vos versions modifiées"
 
 #, elixir-format
 #: lib/listudy_web/templates/page/index.html.eex:30
